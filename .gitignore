@@ -1,0 +1,25 @@
+# Binaries & Executables
+*.exe
+*.o
+*.obj
+*.so
+*.dll
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.db
+*.sqlite3
+
+# Dart & Flutter
+.dart_tool/
+.packages
+build/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
